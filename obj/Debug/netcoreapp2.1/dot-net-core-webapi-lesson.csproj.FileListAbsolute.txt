@@ -1,0 +1,14 @@
+/home/gpdoud/Repos/dotnetcore/dot-net-core-webapi-lesson/bin/Debug/netcoreapp2.1/dot-net-core-webapi-lesson.deps.json
+/home/gpdoud/Repos/dotnetcore/dot-net-core-webapi-lesson/bin/Debug/netcoreapp2.1/dot-net-core-webapi-lesson.runtimeconfig.json
+/home/gpdoud/Repos/dotnetcore/dot-net-core-webapi-lesson/bin/Debug/netcoreapp2.1/dot-net-core-webapi-lesson.runtimeconfig.dev.json
+/home/gpdoud/Repos/dotnetcore/dot-net-core-webapi-lesson/bin/Debug/netcoreapp2.1/dot-net-core-webapi-lesson.dll
+/home/gpdoud/Repos/dotnetcore/dot-net-core-webapi-lesson/bin/Debug/netcoreapp2.1/dot-net-core-webapi-lesson.pdb
+/home/gpdoud/Repos/dotnetcore/dot-net-core-webapi-lesson/obj/Debug/netcoreapp2.1/dot-net-core-webapi-lesson.csprojAssemblyReference.cache
+/home/gpdoud/Repos/dotnetcore/dot-net-core-webapi-lesson/obj/Debug/netcoreapp2.1/dot-net-core-webapi-lesson.csproj.CoreCompileInputs.cache
+/home/gpdoud/Repos/dotnetcore/dot-net-core-webapi-lesson/obj/Debug/netcoreapp2.1/dot-net-core-webapi-lesson.RazorAssemblyInfo.cache
+/home/gpdoud/Repos/dotnetcore/dot-net-core-webapi-lesson/obj/Debug/netcoreapp2.1/dot-net-core-webapi-lesson.RazorAssemblyInfo.cs
+/home/gpdoud/Repos/dotnetcore/dot-net-core-webapi-lesson/obj/Debug/netcoreapp2.1/dot-net-core-webapi-lesson.AssemblyInfoInputs.cache
+/home/gpdoud/Repos/dotnetcore/dot-net-core-webapi-lesson/obj/Debug/netcoreapp2.1/dot-net-core-webapi-lesson.AssemblyInfo.cs
+/home/gpdoud/Repos/dotnetcore/dot-net-core-webapi-lesson/obj/Debug/netcoreapp2.1/dot-net-core-webapi-lesson.RazorTargetAssemblyInfo.cache
+/home/gpdoud/Repos/dotnetcore/dot-net-core-webapi-lesson/obj/Debug/netcoreapp2.1/dot-net-core-webapi-lesson.dll
+/home/gpdoud/Repos/dotnetcore/dot-net-core-webapi-lesson/obj/Debug/netcoreapp2.1/dot-net-core-webapi-lesson.pdb
