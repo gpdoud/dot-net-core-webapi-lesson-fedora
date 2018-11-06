@@ -51,6 +51,7 @@ namespace dot_net_core_webapi_lesson.Controllers
         {
             var user = db.Users.Find(id);
             db.Users.Remove(user);
+            db.SaveChanges();
         }
     }
 }

@@ -29,6 +29,11 @@ namespace dot_net_core_webapi_lesson
         {
             services.AddDbContext<AppDbContext>(opt => opt.UseInMemoryDatabase("UserDb"));
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddCors(o => o.AddPolicy("AllowAll", builder => {
+                builder.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader();
+            }));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -44,6 +49,7 @@ namespace dot_net_core_webapi_lesson
             // }
 
             // app.UseHttpsRedirection();
+            app.UseCors("AllowAll");
             app.UseMvc();
         }
     }
